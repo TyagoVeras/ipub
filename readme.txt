@@ -1,0 +1,1 @@
+Versão do CakePHP utilizada: 2.4.5-0
